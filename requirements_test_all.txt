@@ -7,7 +7,7 @@
 AEMET-OpenData==0.2.2
 
 # homeassistant.components.aladdin_connect
-AIOAladdinConnect==0.1.55
+AIOAladdinConnect==0.1.56
 
 # homeassistant.components.adax
 Adax-local==0.1.5
@@ -1308,7 +1308,7 @@ pynx584==0.5
 pynzbgetapi==0.2.0
 
 # homeassistant.components.octoprint
-pyoctoprintapi==0.1.9
+pyoctoprintapi==0.1.11
 
 # homeassistant.components.openuv
 pyopenuv==2023.02.0
@@ -1854,7 +1854,7 @@ xbox-webapi==2.0.11
 xiaomi-ble==0.16.3
 
 # homeassistant.components.knx
-xknx==2.4.0
+xknx==2.5.0
 
 # homeassistant.components.bluesound
 # homeassistant.components.fritz
