@@ -98,8 +98,6 @@ build.json @home-assistant/supervisor
 /tests/components/aprs/ @PhilRW
 /homeassistant/components/aranet/ @aschmitz
 /tests/components/aranet/ @aschmitz
-/homeassistant/components/arcam_fmj/ @elupus
-/tests/components/arcam_fmj/ @elupus
 /homeassistant/components/arris_tg2492lg/ @vanbalken
 /homeassistant/components/aseko_pool_live/ @milanmeu
 /tests/components/aseko_pool_live/ @milanmeu
@@ -232,8 +230,6 @@ build.json @home-assistant/supervisor
 /tests/components/darksky/ @fabaff
 /homeassistant/components/debugpy/ @frenck
 /tests/components/debugpy/ @frenck
-/homeassistant/components/deconz/ @Kane610
-/tests/components/deconz/ @Kane610
 /homeassistant/components/default_config/ @home-assistant/core
 /tests/components/default_config/ @home-assistant/core
 /homeassistant/components/delijn/ @bollewolle @Emilv2
@@ -687,8 +683,6 @@ build.json @home-assistant/supervisor
 /homeassistant/components/lyric/ @timmo001
 /tests/components/lyric/ @timmo001
 /homeassistant/components/mastodon/ @fabaff
-/homeassistant/components/matter/ @home-assistant/matter
-/tests/components/matter/ @home-assistant/matter
 /homeassistant/components/mazda/ @bdr99
 /tests/components/mazda/ @bdr99
 /homeassistant/components/meater/ @Sotolotl @emontnemery
@@ -975,8 +969,6 @@ build.json @home-assistant/supervisor
 /homeassistant/components/repairs/ @home-assistant/core
 /tests/components/repairs/ @home-assistant/core
 /homeassistant/components/repetier/ @MTrab @ShadowBr0ther
-/homeassistant/components/rflink/ @javicalle
-/tests/components/rflink/ @javicalle
 /homeassistant/components/rfxtrx/ @danielhiversen @elupus @RobBie1221
 /tests/components/rfxtrx/ @danielhiversen @elupus @RobBie1221
 /homeassistant/components/rhasspy/ @balloob @synesthesiam

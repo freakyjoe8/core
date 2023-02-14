@@ -345,12 +345,6 @@
       "config_flow": true,
       "iot_class": "local_push"
     },
-    "arcam_fmj": {
-      "name": "Arcam FMJ Receivers",
-      "integration_type": "hub",
-      "config_flow": true,
-      "iot_class": "local_polling"
-    },
     "arest": {
       "name": "aREST",
       "integration_type": "hub",
@@ -537,12 +531,6 @@
       "integration_type": "hub",
       "config_flow": false,
       "iot_class": "cloud_polling"
-    },
-    "blackbird": {
-      "name": "Monoprice Blackbird Matrix Switch",
-      "integration_type": "hub",
-      "config_flow": false,
-      "iot_class": "local_polling"
     },
     "blebox": {
       "name": "BleBox devices",
@@ -948,12 +936,6 @@
       "name": "Remote Python Debugger",
       "integration_type": "service",
       "config_flow": false,
-      "iot_class": "local_push"
-    },
-    "deconz": {
-      "name": "deCONZ",
-      "integration_type": "hub",
-      "config_flow": true,
       "iot_class": "local_push"
     },
     "decora": {
@@ -1583,12 +1565,6 @@
       "integration_type": "hub",
       "config_flow": true,
       "iot_class": "local_push"
-    },
-    "fido": {
-      "name": "Fido",
-      "integration_type": "hub",
-      "config_flow": false,
-      "iot_class": "cloud_polling"
     },
     "file": {
       "name": "File",
@@ -3113,12 +3089,6 @@
       "config_flow": false,
       "iot_class": "cloud_push"
     },
-    "matter": {
-      "name": "Matter (BETA)",
-      "integration_type": "hub",
-      "config_flow": true,
-      "iot_class": "local_push"
-    },
     "mazda": {
       "name": "Mazda Connected Services",
       "integration_type": "hub",
@@ -4512,12 +4482,6 @@
       "name": "Rexel Energeasy Connect",
       "integration_type": "virtual",
       "supported_by": "overkiz"
-    },
-    "rflink": {
-      "name": "RFLink",
-      "integration_type": "hub",
-      "config_flow": false,
-      "iot_class": "assumed_state"
     },
     "rfxtrx": {
       "name": "RFXCOM RFXtrx",

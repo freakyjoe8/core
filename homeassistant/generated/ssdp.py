@@ -4,12 +4,6 @@ To update, run python3 -m script.hassfest
 """
 
 SSDP = {
-    "arcam_fmj": [
-        {
-            "deviceType": "urn:schemas-upnp-org:device:MediaRenderer:1",
-            "manufacturer": "ARCAM",
-        },
-    ],
     "axis": [
         {
             "manufacturer": "AXIS",
@@ -24,12 +18,6 @@ SSDP = {
     "control4": [
         {
             "st": "c4:director",
-        },
-    ],
-    "deconz": [
-        {
-            "manufacturer": "Royal Philips Electronics",
-            "manufacturerURL": "http://www.dresden-elektronik.de",
         },
     ],
     "denonavr": [
