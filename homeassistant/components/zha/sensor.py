@@ -491,7 +491,7 @@ class SmartEnergySummation(SmartEnergyMetering, id_suffix="summation_delivered")
 
 @MULTI_MATCH(
     channel_names=CHANNEL_SMARTENERGY_METERING,
-    models={"TS011F", "ZLinky_TIC"},
+    models={"TS011F", "ZLinky_TIC", "S1 (5501)", "S1-R (5501)"},
     stop_on_match_group=CHANNEL_SMARTENERGY_METERING,
 )
 class PolledSmartEnergySummation(SmartEnergySummation):
